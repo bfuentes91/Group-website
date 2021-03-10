@@ -2,7 +2,7 @@
 lesson example: "https://carpentries.github.io/lesson-example/"
 
 
-layout:page
+layout:default
 
 [] [!][Group website banner] (./image/site_banner.png) (https//my site)
 # {{ site.title }}
