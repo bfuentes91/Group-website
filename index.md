@@ -1,7 +1,7 @@
 ---
 lesson example: "https://carpentries.github.io/lesson-example/"
 
-{% include banner.md%}
+
 layout:page
 
 [] [!][Group website banner] (./image/site_banner.png) (https//my site)
