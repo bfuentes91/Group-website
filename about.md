@@ -1,6 +1,6 @@
 # About
 ## Project
-This research....
+{{ site.description }}
 ## Funders
 we gratefully....
 ## Cite us
