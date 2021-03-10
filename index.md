@@ -12,3 +12,4 @@ This research project is all about teaching you how to create websites with Gith
 More details from the [About page] (about)
 See more [examples of our work] ({{page.lesson-example }})
 Have any questions about what we do? [We'd love to hear from you!] (mailto:{{site.email }})
+{% include mistake.md %}
