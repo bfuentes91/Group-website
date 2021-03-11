@@ -1,7 +1,7 @@
 ---
-layout:page
+layout: default
 ---
-
+Title: "learning how to build websites with Jekyll"
 ---
 lesson example: "https://carpentries.github.io/lesson-example/"
 
@@ -9,7 +9,7 @@ lesson example: "https://carpentries.github.io/lesson-example/"
 
 
 [] [!][Group website banner] (./image/site_banner.png) (https//my site)
-# {{ site.title }}
+
 # My research project
 ## Description
 {{ site.description }}
