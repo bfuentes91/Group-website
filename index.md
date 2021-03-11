@@ -28,6 +28,7 @@ Have any questions about what we do? [We'd love to hear from you!] (mailto:{{sit
 ## Blog Posts
 
   {% for post in site.posts %}
-  - [[ POST.DATE | DATE_TO_STRING }}: {{POST.TITLE}}
+  - [[ POST.DATE | DATE_TO_STRING }}: {{POST.TITLE}} by {{ post.author }}
 
   {% endfor %}
+
