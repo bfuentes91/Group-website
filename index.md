@@ -25,3 +25,9 @@ More details from the [About page] (about)
 See more [examples of our work] ({{page.lesson-example }})
 Have any questions about what we do? [We'd love to hear from you!] (mailto:{{site.email }})
 
+## Blog Posts
+
+  {% for post in site.posts %}
+  - [[ POST.DATE | DATE_TO_STRING }}: {{POST.TITLE}}
+
+  {% endfor %}
