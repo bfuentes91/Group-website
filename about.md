@@ -1,3 +1,6 @@
+_
+layout: page
+_
 # About
 ## Project
 {{ site.description }}
