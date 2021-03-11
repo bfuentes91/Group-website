@@ -3,5 +3,5 @@ layout: default
 ---
 
 <strong>Author: </strong> {{page.author }}
-Published at {{ page.date }| date-to-long-string: "ordinal|"" }}
+Published at {{ page.date | date-to-long-string: "ordinal" }}
 {{ content }}
