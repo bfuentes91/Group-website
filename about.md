@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About
+
 ## Project
 {{ site.description }}
 ## Funders
